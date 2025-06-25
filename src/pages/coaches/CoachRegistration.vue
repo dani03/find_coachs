@@ -1,3 +1,3 @@
 <template>
-  <h2>registration</h2>
+  <h2>registration coaches </h2>
 </template>
